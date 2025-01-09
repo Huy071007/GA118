@@ -9,5 +9,6 @@ int main()
    int number;
    if(number > 0)
    cout <<"So lon hon = 0" <<endl;
+   cin << endl;
 }
 
