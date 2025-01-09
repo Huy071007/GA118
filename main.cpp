@@ -10,5 +10,6 @@ int main()
    if(number > 0)
    cout <<"So lon hon = 0" <<endl;
    cin << endl;
+   void()
 }
 
