@@ -4,5 +4,6 @@ using namepace std;
 int main()
 {
 	cout<<"SIUUUUU"<<endl;
-	return 0
+   cout <<"HASTA LA VISTA" << endl;
+   return 0
 }
